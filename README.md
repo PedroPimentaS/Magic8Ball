@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-Desafio do curso da Dra. Angela Yude criar o aplicativo Magic 8 Ball. Você pode pedir ao aplicativo para tomar as suas decisões difíceis. Devo pedir um burrito de carne ou uma pizza de queijo extra? Devo assistir Stranger Things ou Game of Thrones? Com este aplicativo no seu bolso, você sempre terá uma resposta para os muitos enigmas da vida!
+Desafio do curso da Dra. Angela Yu de criar o aplicativo Magic 8 Ball. Você pode pedir ao aplicativo para tomar as suas decisões difíceis. Devo pedir um burrito de carne ou uma pizza de queijo extra? Devo assistir Stranger Things ou Game of Thrones? Com este aplicativo no seu bolso, você sempre terá uma resposta para os muitos enigmas da vida!
 
 ## What you will create
 
